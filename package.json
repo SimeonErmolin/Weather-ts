@@ -41,5 +41,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.2.5",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^5.74.0"
   }
 }
